@@ -5,3 +5,4 @@ We attach great importance to your privacy. This privacy statement explains the 
 1. positioning and motion data if you do not want this application to obtain your location information, positioning function can be turned off in the settings of the software.
 
 Software data collection stored in the local software, software delete collected data are also deleted.
+
